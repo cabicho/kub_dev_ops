@@ -37,7 +37,7 @@ Sou formado em Estatística.
 - Flask API. 
 - Typescript com Nest.js.
 - Integração contínua.
-- Prometheus e Grafana
+- Prometheus e Grafana.
 
 ### **Soft Skils**
 
